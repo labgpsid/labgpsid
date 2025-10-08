@@ -2,7 +2,7 @@
 
 <img src="b27e9280-473a-4edc-9d62-230f74a9676f.png" alt="Logo GPSID" width="180" style="border-radius: 50%; margin-bottom: 15px;"/>
 
-# 🌐 GPSID - Grupo de Pesquisa em Sistemas de Informação e Decisão
+# Grupo de Pesquisa em Sistemas de Informação e Decisão
 ### Universidade Federal de Pernambuco (UFPE) — Recife
 
 [![E-mail](https://img.shields.io/badge/-labgpsid%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:labgpsid@gmail.com)
@@ -16,7 +16,7 @@
 
 ## 👩‍🏫 Coordenação
 
-**MAÍSA MENDONÇA SILVA**  
+**Maísa Mendonça Silva**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/1719660651640802)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4223-2769)  
 📧 maisa.silva@ufpe.br
@@ -25,46 +25,46 @@
 
 ## 🎓 Mestrado
 
-**CHARDSONCLEY JOSÉ CORREIA DA SILVA MELO**  
+**Chardsoncley José Correia da Silva Melo**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/4730758926255746)
 
 ---
 
 ## 🎓 Doutorado
 
-**CARLOS JOSÉ DE LIMA**  
+**Carlos José de Lima**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/6652468960979337)  
 📧 carlos.jlima@ufpe.br  
 
-**EDUARDO DA SILVA**  
+**Eduardo da Silva**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/9698302403435499)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2455-2294)  
 📧 eduardo.es@ufpe.br  
 
-**JEFFERSON CARLOS DE OLIVEIRA RIBEIRO COSTA**  
+**Jefferson Carlos de Oliveira Ribeiro Costa**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/6411337258532071)  
 📧 jefferson.ribeiro@ufpe.br  
 
-**JOÃO BATISTA MENDES BARBOSA**  
+**João Batista Mendes Barbosa**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/4686033623536696)  
 📧 joao.mendes@ufpe.br  
 
-**JOVENILSON ROCHA DE OLIVEIRA**  
+**Jovenilson Rocha de Oliveira**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/4863817903775091)
 
-**JOYCE NUNES GALVÃO CAVALCANTE**  
+**Joyce Nunes Galvão Cavalcante**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/9078115312448557)  
 📧 joyce.nunes@ufpe.br  
 
-**MARCOS ANTÔNIO ARAÚJO DA COSTA**  
+**Marcos Antônio Araújo da Costa**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/0908944937890798)  
 📧 marcos.acosta@ufpe.br  
 
-**MARIA DO LIVRAMENTO MAMEDE BEZERRA**  
+**Maria do Livramento Mamede Bezerra**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/2045810723587545)  
 📧 marialivramento.bezerra@ufpe.br  
 
-**MATEUS MULLER FRANCO**  
+**Mateus Muller Franco**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/9554919145483656)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5137-4342)
 
@@ -72,10 +72,10 @@
 
 ## 🤝 Coorientações
 
-**DANILO CESAR VITORINO DE ARRUDA**  
+**Danilo Cesar Vitorino de Arruda**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/2725265019496657)
 
-**PAULA CRISTINA DE AMORIM ANDRADE**  
+**Paula Cristina de Amorim Andrade**  
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/6398108441133432)
 
 ---
