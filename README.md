@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="Logo GPSID" width="180" style="border-radius: 50%; margin-bottom: 15px;"/>
+<img src="gpsid.png" alt="Logo GPSID" width="180" style="border-radius: 50%; margin-bottom: 15px;"/>
 
 # Grupo de Pesquisa em Sistemas de Informação e Decisão
 ### Universidade Federal de Pernambuco (UFPE) — Recife
