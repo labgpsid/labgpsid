@@ -118,6 +118,7 @@
   <img src="https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white" alt="Lattes">
 </a>
 
+---
 ## 🤝 Iniciação Científica
 **Maria Clara Domingos Alves**
 <a href="http://lattes.cnpq.br/6107103997558142" target="_blank" rel="noopener noreferrer">
@@ -128,6 +129,7 @@
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white" alt="Lattes">
 </a>
+
 ---
 
 <div align="center">
