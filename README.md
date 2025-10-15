@@ -126,7 +126,7 @@
 </a>
 
 **Sergio Agra Valenca Soriano da Costa e Silva**
-<a href="" target="_blank" rel="noopener noreferrer">
+<a href="http://lattes.cnpq.br/6737132637775804" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=google-scholar&logoColor=white" alt="Lattes">
 </a>
 
